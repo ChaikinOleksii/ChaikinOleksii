@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChaikinOleksii
-- 👀 I’m interested in QA
-- 🌱 I’m currently learning theory
-- 💞️ I’m looking to collaborate on my first Employer
+- 👀 I’m QA engineer
+- 🌱 I’m currently working in GameDev
+- 💞️ I have two years of experience
 - 📫 How to reach me tchaykinaa2338@gmail.com
 
 <!---
