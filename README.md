@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChaikinOleksii
 - 👀 I’m QA engineer
 - 🌱 I’m currently working in GameDev
-- 💞️ I have mote than 3 years of experience
+- 💞️ I have more than 3 years of experience
 - 📫 How to reach me tchaykinaa2338@gmail.com
 
 <!---
